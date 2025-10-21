@@ -3,20 +3,7 @@ package dailymixes;
 import java.util.Arrays;
 import list.AList;
 
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of those who
-// do.
-// -- Nathan Okubazgi (906705115)
-// -------------------------------------------------------------------------
-/**
- * This class handles the accept and addSongToPlaylist logic as well as the
- * reject song logic
- * 
- * @author nathanokubazgi
- * @version Apr 14, 2025
- */
+
 public class PlaylistCalculator
 {
 
